@@ -12,6 +12,7 @@ The goal is not a cute poster, mascot sticker, formal PPT diagram, or commercial
 ## Read As Needed
 
 - `references/ip-guidelines.md`: fixed boy IP, Bichon companion, style keywords, and taboos.
+- `references/visual-style-library.md`: reusable visual modes learned from the original Xiaohei example set.
 - `references/composition-patterns.md`: structure types, metaphor method, object pool, and action rules.
 - `references/prompt-template.md`: reusable generation prompt template.
 - `references/qa-checklist.md`: post-generation checks and iteration rules.
@@ -20,12 +21,13 @@ The goal is not a cute poster, mascot sticker, formal PPT diagram, or commercial
 ## Workflow
 
 1. Extract the image's single core idea from the user's article, paragraph, screenshot, or request.
-2. Pick one structure type from `references/composition-patterns.md`.
+2. Pick one visual mode from `references/visual-style-library.md`, then pick one structure type from `references/composition-patterns.md`.
 3. Turn the abstract idea into one low-tech physical action: press, sort, pull, catch, repair, weigh, connect, open, filter, carry, or fold.
 4. Make the boy perform the main conceptual action.
 5. Make the Bichon actively help with a smaller supporting action.
-6. Generate one image per prompt. Do not combine multiple requested images into one canvas unless the user asks for a small comic panel.
-7. Check the result with `references/qa-checklist.md`. Regenerate or edit if either character is decorative, the image looks like PPT, or the style drifts away.
+6. Vary the visual mode across a batch. Do not reuse the same machine-centered layout for every image.
+7. Generate one image per prompt. Do not combine multiple requested images into one canvas unless the user asks for a small comic panel.
+8. Check the result with `references/qa-checklist.md`. Regenerate or edit if either character is decorative, the image looks like PPT, or the style drifts away.
 
 ## Required Generation Rules
 

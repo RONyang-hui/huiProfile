@@ -10,6 +10,7 @@
 - The boy performs the core conceptual action.
 - The Bichon actively helps with a supporting action.
 - One image explains one core idea.
+- The visual mode fits the idea and is not always the default center-machine layout.
 - The main subject occupies about 40%-60% of the canvas.
 - At least about 35% of the image remains blank white space.
 - Chinese labels are sparse, short, and not the main content.
@@ -28,6 +29,7 @@
 - There are too many labels, arrows, nodes, or objects.
 - A top-left title names the structure type, such as Workflow, 系统架构图, 路线图, or 常见坑.
 - The picture copies a known Xiaohei example composition instead of inventing a new metaphor.
+- A batch of images all use the same visual mode.
 
 ## Iteration Moves
 
@@ -37,3 +39,4 @@
 - Too PPT: remove titles, grids, regular panels, and excess arrows; turn it into a physical scene.
 - Too complex: delete nodes and keep one object, one action, and 0-4 short labels.
 - Text is wrong: reduce labels or edit text locally if the image is otherwise strong.
+- Too repetitive: switch visual mode, for example from Machine Operator to Trust Bridge, Information Well, Toolbox, Pitfall Road, or Load-Bearing Contrast.

@@ -21,11 +21,14 @@ Theme:
 Structure type:
 {Workflow / System part / Before-after / Character state / Concept metaphor / Method layers / Route map / Mini comic}
 
+Visual mode:
+{Machine Operator / Living Filter / Big Object Metaphor / Curved Path / Layered Bucket / Branching Jobs / Toolbox / Pitfall Road / Information Well / Fermentation Jar / Load-Bearing Contrast / Trust Bridge}
+
 Core idea:
 {one sentence describing what the image explains}
 
 Composition:
-{where the boy is, what he is doing, how the Bichon helps, what the main object is, and how information or action moves}
+{where the boy is, what he is doing, how the Bichon helps, what the main object is, how information or action moves, and which visual mode is being used}
 
 Suggested elements:
 {element 1} / {element 2} / {element 3} / {element 4}
@@ -37,7 +40,7 @@ Color use:
 Black for line art and labels. Blue/light blue only on the boy's sports shirt and optional secondary notes. Olive/khaki only on shorts. Orange only for the main path or arrows. Red only for one key warning/result. The Bichon is white with minimal light cream pencil shading.
 
 Constraints:
-One image explains only one core structure. Keep the main subject around 40%-60% of the canvas. Preserve at least 35% blank white space. Do not write a title in the top-left corner. Do not write the structure type on the image. Do not make it a formal diagram, course slide, dense explainer, anime image, 3D render, or photorealistic illustration. No extra people, no watermark.
+One image explains only one core structure. Keep the main subject around 40%-60% of the canvas. Preserve at least 35% blank white space. Do not write a title in the top-left corner. Do not write the structure type or visual mode on the image. Avoid repeating the same center-machine layout unless it is clearly the best mode. Do not copy existing Xiaohei example compositions exactly. Do not make it a formal diagram, course slide, dense explainer, anime image, 3D render, or photorealistic illustration. No extra people, no watermark.
 ```
 
 ## Minimal Shot List Format
@@ -49,6 +52,7 @@ When the user asks for ideas before generation, use this compact format:
    主题：{主题}
    核心意思：{一句话}
    结构：{结构类型}
+   样式：{视觉模式}
    动作：男孩{主动作}，比熊{辅助动作}
    元素：{3-5 个}
    标注：{0-6 个短词}

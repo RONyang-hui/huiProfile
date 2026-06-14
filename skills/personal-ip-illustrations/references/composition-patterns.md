@@ -1,6 +1,6 @@
 # Composition Patterns
 
-Choose one structure type. Avoid mixing too many diagram types.
+Choose one structure type. Avoid mixing too many diagram types. For visual variety, pair the structure type with one visual mode from `visual-style-library.md`.
 
 ## Structure Types
 
@@ -75,6 +75,16 @@ Use 2-4 panels max. Each panel has one action and little text.
 - tiny cards
 - simple lever
 - odd low-tech machine
+- open toolbox
+- stamp kit
+- deep well
+- transparent jar
+- bridge
+- warning holes
+- tiered bucket
+- oversized shuttlecock
+- folding board
+- load-bearing pulley
 
 Use only 1-2 main objects. Do not fill the canvas.
 
@@ -101,4 +111,4 @@ The action must explain the idea, not merely look cute.
 
 ## Anti-Copy Rule
 
-Do not replicate the existing Xiaohei example compositions directly, including conveyor breakpoints, Xiaohei as a funnel, cutting a fish, or the exact idea-press layout. Use them only for visual density and restraint. Invent a fresh physical metaphor for the user's specific concept.
+Do not replicate the existing Xiaohei example compositions directly, including conveyor breakpoints, Xiaohei as a funnel, cutting a fish, the exact handoff path, the exact idea-press layout, the exact information well, the exact fermentation jar, the exact toolbox, or the exact trust bridge. Use them only for visual density and restraint. Invent a fresh physical metaphor for the user's specific concept.
